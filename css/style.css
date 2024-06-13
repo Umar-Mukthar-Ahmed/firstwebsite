@@ -115,12 +115,6 @@ body{
     left: 0;
 }
 
-.header .logo img :hover{
-    width: 8rem;
-    height: 8rem;
-    top: 0;
-    left: 0;
-}
 
 .header .navbar ul{
     list-style-type: none;
