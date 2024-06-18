@@ -149,9 +149,10 @@ body{
 }
 
 .home{
-    min-height: 100vh;
+    min-height: 95vh;
     width: 100vw;
-    background-image: url(../images/img1.jpg);
+    background-image: url(../images/IMG_1076[1].JPG);
+    opacity: 0.6;
     background-size: cover;
     display: flex;
     align-items: center;
@@ -1095,6 +1096,9 @@ body{
 }        
 
 @media (max-width: 1000px){
+    .home{
+        min-height: 32vh;
+    }
     html{
         font-size: 50%;
     }
