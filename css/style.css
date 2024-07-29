@@ -151,8 +151,8 @@ body{
 .home{
     min-height: 95vh;
     width: 100vw;
-    background-image: url(../images/IMG_1076[1].JPG);
-    opacity: 0.6;
+    background-image: url(../images/img1.jpg);
+    
     background-size: cover;
     display: flex;
     align-items: center;
@@ -180,7 +180,7 @@ body{
     left: 0;
     height: 11rem;
     width: 100%;
-    background: url(../images/wave1.png);
+    background: url(../images/wave.png);
     background-size: 100rem 11rem;
     animation: waves 7s linear infinite;
     background-repeat: repeat-x;
@@ -196,7 +196,7 @@ body{
     background-size: 100rem 11rem;
     animation: waves 5s linear infinite;
     background-repeat: repeat-x;
-    opacity: .9;
+    opacity: .6;
 }
 .home .wave3{
     position: absolute;
@@ -204,11 +204,11 @@ body{
     left: 0;
     height: 11rem;
     width: 100%;
-    background: url(../images/wave2.png);
+    background: url(../images/wave.png);
     background-size: 100rem 11rem;
     animation: waves 3s linear infinite;
     background-repeat: repeat-x;
-    opacity: .8;
+    opacity: .4 ;
 }
 
 
